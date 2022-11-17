@@ -17,7 +17,7 @@ function App() {
           </div>
         </div>
 
-        <div className="flex flex-col mx-8 md:ml-32 w-[80%] bg-white border rounded-xl mt-10 mb-40">
+        <div className="flex flex-col mx-3 md:mx-8 md:ml-32 md:w-[80%] bg-white border rounded-xl mt-10 mb-40">
           <div className="">
             <p className="text-xl font-bold text-center mt-3">
               Spending-last 7 Days
